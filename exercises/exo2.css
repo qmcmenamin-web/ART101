@@ -1,1 +1,10 @@
-h2{color:greenyellow; }
+h2{color:greenyellow; font-size: xxx-large; }
+li{text-align: center;}
+html {font-family: "BitcountGridDouble-VariableFont_CRSV,ELSH,ELXP,slnt,";}
+p{background-color:turquoise;}
+img{image-resolution: 20px;}
+.highlight_01 { background:blueviolet;}
+.highlight_02 {background:green;}
+span {background-color: chocolate;}
+#cat-small { width: 150px;}
+#cat-medium { width: 500px;}
