@@ -1,0 +1,17 @@
+body {
+  background-image: url("scifischool.jpg");
+}
+    #school-small { width: 150px;}
+    p{background-color:turquoise;}
+    .main {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin: 0 0 25px 0;
+}
+.below {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin: 0 0 25px 0;
+}
