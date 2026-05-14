@@ -1,0 +1,30 @@
+#creature-form {
+   background: #eeeeee;
+   padding: 20px;
+   margin: 50px;
+}
+
+#creature-form DIV {
+   margin-bottom: 20px;
+}
+
+#creature-list {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 20px;
+   margin: 50px;
+}
+
+
+#creature-list>DIV {
+   background: pink;
+   width: 100px;
+   height: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+ body {  background: maroon;
+    padding: 50px;}
+    h1  {  background: #663636;
+    padding: 50px;}
